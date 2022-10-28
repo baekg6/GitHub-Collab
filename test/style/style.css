@@ -57,12 +57,12 @@ a {
 }
 
 /* 연습 */
-/* .aside {
+.aside {
     grid-area: aside;
     background-color: yellowgreen;
     text-align: left;
     padding: 50px;
-} */
+}
 
 .cont-channel li {
     margin: 20px;
